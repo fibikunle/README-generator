@@ -2,7 +2,7 @@
 
   # readme-generator
   
-  The walkthrough video for this application can be found (https://www.loom.com/share/637f23a06f414cf9bda825d7b5def574).
+  The walkthrough video for this application can be found here (https://www.loom.com/share/637f23a06f414cf9bda825d7b5def574).
   
   ## Project Description
   Task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the [Inquirer package](https://www.npmjs.com/package/inquirer/v/8.2.4). This README generator will allow the user to answer a series of specific questions and create a professional complete README based on their responses.
@@ -730,6 +730,6 @@ Public License instead of this License.  But first, please read
   None at this time.
 
   ## Questions?
-  I enjoy hearing back about my work. You can reach me at jcomp_03@yahoo.com.
-  Alternatively, contact me on my GitHub page <a href="https://github.com/jcomp-03">here</a>.
+  I enjoy hearing back about my work. You can reach me at felixibikunle@gmail.com.
+  Alternatively, contact me on my GitHub page <a href="https://github.com/fibikunle">here</a>.
   
